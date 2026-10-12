@@ -10,7 +10,7 @@ Se utilizó el conjunto de datos **BANKING77** disponible en Hugging Face, que c
 La evaluación se realizó sobre el conjunto de prueba (*test*) y consideró las métricas *accuracy*, *precision*, *recall* y *F1-score macro*. También se registraron el tiempo total de ejecución y la latencia media por texto para comparar la calidad de las predicciones y la velocidad de procesamiento de cada modelo.
 
 ## Estructura del Repositorio
-- `ACT4_MAGUILAR5.ipynb`: Cuaderno de Jupyter con el código de experimentación y evaluación.
+- `ACT4_MAGUILAR5.ipynb`: Cuaderno de Google Colab con el código de experimentación y evaluación.
 - `requirements.txt`: Dependencias y librerías necesarias.
 - `resultados_modelos_banking77.csv`: Tabla con los resultados y métricas obtenidas.
 
